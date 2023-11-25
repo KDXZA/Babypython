@@ -14,3 +14,4 @@ h = int(input("height = ")) # "3"
 # print(rectangle(w, h))
 print(triangle(w,h))
 print("h")
+print("hello")
