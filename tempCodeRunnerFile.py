@@ -1,0 +1,1 @@
+print(nested_matrix[upper_arm-1,wrist_score-1])
